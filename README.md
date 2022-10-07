@@ -40,6 +40,10 @@
 2) [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
 ---
 
+### Tools 
+1) [Simple crossplatform IDE for NASM, MASM, GAS, FASM assembly languages](https://dman95.github.io/SASM/english.html)
+
+---
 ### Other
 
 #### Some articles about static and dynamic linking

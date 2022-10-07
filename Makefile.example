@@ -1,0 +1,18 @@
+CFLAGS=-pedantic
+
+#CCOMP = $(CC) $(CFLAGS)
+
+CFLAGS+= -Wall -Wextra -Wpedantic \
+         -Wformat=2 -Wno-unused-parameter -Wshadow \
+          -Wwrite-strings -Wstrict-prototypes -Wold-style-definition \
+          -Wredundant-decls -Wnested-externs -Wmissing-include-dirs
+
+
+# It is standard practice for every makefile to have a variable named objects,OBJECTS,
+# objs, OBJS, obj, or OBJ which is a list of all object file names.
+OBJS=main.o test.o
+
+
+.PHONY:some
+some:
+	@echo $(CFLAGS)

@@ -1,5 +1,5 @@
 section .data
-path db "/home/dzmitry/testfolder/", 0
+path db "/path/to/your/folder", 0
 section .text
 global main
 main:

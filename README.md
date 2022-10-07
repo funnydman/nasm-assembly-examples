@@ -8,15 +8,15 @@
 2) [Assembly Language for x86 Processors | Kip Irvine](https://www.amazon.com/dp/1782167102)
 3) [Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture | Igor Zhirkov](https://www.amazon.com/-/es/Igor-Zhirkov/dp/1484224027/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1HVS6XSBLBXN6&keywords=nasm+assembly&qid=1664734729&qu=eyJxc2MiOiIxLjkxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=nasm+assembly%2Cstripbooks-intl-ship%2C176&sr=1-2)
 4) [Reverse Engineering for beginners (open-source book) | Dennis Yurichev](https://beginners.re/)
-5) http://www.stolyarov.info/books/asm_unix (russian)
-6) https://www.ozon.ru/context/detail/id/4579142/ (russian)
+5) [http://www.stolyarov.info/books/asm_unix (russian)](http://www.stolyarov.info/books/asm_unix)
+6) [https://www.ozon.ru/context/detail/id/4579142/ (russian)](https://www.ozon.ru/context/detail/id/4579142/)
 7) [xchg_rax|advanced Assembler](https://www.xorpd.net/pages/xchg_rax/snip_00.html)
 8) [xorpd-solutions](https://github.com/funnydman/xorpd-solutions)
 9) [PC Assembly Language | Paul A. Carter](http://pacman128.github.io/pcasm/)
 10) [x86_64 Linux Assembly | Video Course](https://www.youtube.com/watch?v=vXsUIX_Ozgc&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn&index=11)
  
 ---
-### Linux & C & binary analysis, and how it works. 
+### Linux & C & binary analysis, and how it works
 1) [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/index.html)
 2) [Linux insides](https://0xax.gitbooks.io/linux-insides/content/Theory/linux-theory-2.html)
 3) [Deep C (and C++)](https://www.slideshare.net/olvemaudal/deep-c/22-What_will_happen_if_you)
@@ -31,7 +31,9 @@
 2) [Optimizing subroutines in assembly language, An optimization guide for x86 platforms](https://www.agner.org/optimize/optimizing_assembly.pdf)
 3) [Hacking: The Art of Exploitation, 2nd Edition | Jon Erickson](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
 4) [Reversing: Secrets of Reverse Engineering | Eldad Eilam](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817)
+5) [8 gdb tricks you should know](https://blogs.oracle.com/linux/post/8-gdb-tricks-you-should-know)
 
+---
 
 ### References that you might find helpful
 1) [Linux syscalls table](http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)

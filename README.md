@@ -38,6 +38,7 @@
 ### References that you might find helpful
 1) [Linux syscalls table](http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
 2) [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
+3) [ Complete 8086 instruction set](https://yassinebridi.github.io/asm-docs/8086_instruction_set.html#top1)
 ---
 
 ### Tools 

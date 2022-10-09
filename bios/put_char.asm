@@ -6,18 +6,12 @@
 ; qemu-system-x86_64 -machine accel=kvm:tcg -m 512 -hda /dev/sda1
 
 cpu 8086
-org 0x7C00
 
-mov al, 13h
-mov ah, 0
-int 10h
-mov ax, 0x0E53 ; 0x53 for character, 0xOE for teletype writing
-mov ah, 0x0E
-mov al, [string]
-mov bx, 0x0009 ; set page (no page) and color light blue (0x09) https://en.wikipedia.org/wiki/BIOS_color_attributes
+; 0xOE for teletype writing http://www.ctyme.com/intr/rb-0106.htm
+; 0x13 is a character 'W'
+mov ax, 0x0E57
 int 0x10
 hlt
-string db 'Wake up Neo...', 0
 
 TIMES 510 - ($ - $$) db 0 ; Fill the rest of sector with 0
-dw 0xaa55 ; (Master Boot Record) MBR magic numbers
+dw 0xaa55 ;  MBR (Master Boot Record) magic numbers

@@ -45,11 +45,22 @@
 3) [Complete 8086 instruction set](https://yassinebridi.github.io/asm-docs/8086_instruction_set.html#top1)
 4) [BIOS Interrupt Jump Table](http://www.ctyme.com/intr/int.htm)
 
+### RISC
+1) [Assemblers, Linkers, and Loaders Hakim Weatherspoon CS 3410 Computer Science Cornell University](https://www.cs.cornell.edu/courses/cs3410/2019sp/schedule/slides/11-linkload-notes-bw.pdf)
+2) [Digital Design and Computer Architecture RISC-V Edition](https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642)
+3) [Digital Design and Computer Architecture: RISC-V Edition, resources](http://pages.hmc.edu/harris/ddca/ddcarv.html)
+4) [RISC-V Instruction Formats, Instructor: Steven Ho](https://inst.eecs.berkeley.edu/~cs61c/resources/su18_lec/Lecture7.pdf)
+5) [RISC-V Online Assembler](https://riscvasm.lucasteske.dev/#)
+
+### books
+1) [But How Do It Know? - The Basic Principles of Computers for Everyone | Clark Scott](https://www.amazon.com/But-How-Know-Principles-Computers/dp/0615303765)
+
 ### Tools 
 1) [Simple crossplatform IDE for NASM, MASM, GAS, FASM assembly languages](https://dman95.github.io/SASM/english.html)
 
 ---
 ### Other
+- [6502 Instruction Set](https://www.masswerk.at/6502/6502_instruction_set.html#LDA)
 
 #### Some articles about static and dynamic linking
 - http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html
